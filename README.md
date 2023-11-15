@@ -1,5 +1,5 @@
 # stockkasir
-program kasir menggonakan stock yang tersedia
+program kasir menggunakan stock yang tersedia
 program ini menggunakan bahasa c++
 
 
